@@ -1,0 +1,79 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+header{
+    display: flex;
+}
+.me2{
+    height: 5px;
+}
+.full-page-container{
+    padding: 50px;
+}
+.main-container{
+    height: 70vh;
+    border: 1px solid black;
+    display: flex;
+   
+}
+.para-container{
+    border: 1px solid black;
+    margin: 50px;
+   height: 300px;
+   width: 500px;
+}
+.image-container{
+    border: 1px solid black;
+    height: 300px;
+    width: 500px;
+    margin: 50px;
+}
+.container2{
+    border: 1px solid black;
+    display: flex;
+}
+.cards{
+    border: 1px solid black;
+}
+.card1{
+   
+    border: 1px solid black;
+}
+.img{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+img{
+    height: 10px;
+    width:10px;
+}
+.card2{
+    border: 1px solid black;
+}
+.card3{
+    border: 1px solid black;
+}
+.row{
+    display: flex;
+}
+.img-box{
+    display: flex;
+    justify-content: space-around;
+}
+.me{
+    height: 30px;
+    width: 30px;
+}
+.container4{
+    border: 1px solid black;
+    display: flex;
+}
+.box1{
+    border: 1px solid black;
+}
+.me2{
+    height: 70px;
+    width: 70px;
+}
